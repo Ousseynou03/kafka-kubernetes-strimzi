@@ -21,7 +21,7 @@
  <code>kubectl get pod</code>
 
  Toujours grâce à strimzi, on peut créer le manifeste pour créer un topic : 
- <code>kubectl apply -f kafka-topic.yml</code
+ <code>kubectl apply -f kafka-topic.yml</code>
 
 
  <h2></h2>
